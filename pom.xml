@@ -24,9 +24,9 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:https://git.oschina.net/wjtree/app-parent.git</connection>
-        <developerConnection>scm:git:https://git.oschina.net/wjtree/app-parent.git</developerConnection>
-        <url>https://git.oschina.net/wjtree/app-parent</url>
+        <connection>scm:git@github.com:wjtree/wechat-parent.git</connection>
+        <developerConnection>scm:git@github.com:wjtree/wechat-parent.git</developerConnection>
+        <url>https://github.com/wjtree/wechat-parent</url>
     </scm>
     <!-- 子项目声明 -->
     <modules>
