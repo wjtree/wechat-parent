@@ -1,2 +1,1 @@
-# wechat-parent
-微信公众号 SDK
+微信公众号 SDK，不依赖Spring
